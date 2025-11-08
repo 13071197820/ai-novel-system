@@ -1,0 +1,174 @@
+{
+  "growth_curve": {
+    "protagonist_growth_function": {
+      "narrative_function": "narrative(t) = 迷茫穿越者 → 规则学习者 → 宿命洞察者 → 破界先驱 → 命运创造者",
+      "growth_pattern": "单调递增、指数加速",
+      "inflection_points": [
+        {"point": "t=15%", "event": "规则洞察能力发现", "growth_acceleration": "线性增长开始"},
+        {"point": "t=50%", "event": "灵墟秘境保卫战", "growth_acceleration": "指数增长起点"},
+        {"point": "t=75%", "event": "规则洞察完全觉醒", "growth_acceleration": "爆发式增长"}
+      ]
+    },
+    
+    "growth_stages_table": [
+      {
+        "stage": "初始阶段 - 迷茫穿越者",
+        "time_period": "t=0-15%",
+        "abilities": "现代知识，基本生存能力",
+        "mindset": "迷茫、困惑、被动接受",
+        "goals": "生存适应，理解新世界",
+        "breakthroughs": ["发现规则洞察能力", "被清虚道长发现"],
+        "costs": ["身份认同危机", "孤独感"],
+        "emotional_drivers": ["求生本能", "好奇心"]
+      },
+      {
+        "stage": "学习阶段 - 规则学习者",
+        "time_period": "t=15-35%",
+        "abilities": "基础修真知识，规则洞察入门",
+        "mindset": "求知、探索、建立归属",
+        "goals": "掌握修真基础，理解破界理念",
+        "breakthroughs": ["加入破界盟", "结识关键人物", "规则洞察训练"],
+        "costs": ["训练挫折", "理念冲突"],
+        "emotional_drivers": ["归属感", "使命感"]
+      },
+      {
+        "stage": "觉醒阶段 - 宿命洞察者",
+        "time_period": "t=35-65%",
+        "abilities": "规则洞察中级，修真实力提升",
+        "mindset": "责任、决心、主动承担",
+        "goals": "保护重要的人，对抗血煞宗",
+        "breakthroughs": ["灵墟秘境保卫战", "重要人物牺牲", "规则洞察觉醒"],
+        "costs": ["情感创伤", "责任压力"],
+        "emotional_drivers": ["责任感", "复仇决心"]
+      },
+      {
+        "stage": "突破阶段 - 破界先驱",
+        "time_period": "t=65-90%",
+        "abilities": "规则洞察高级，创新修真方法",
+        "mindset": "创新、突破、理念成熟",
+        "goals": "挑战天道规则，创造新可能",
+        "breakthroughs": ["规则洞察完全掌握", "理念融合", "最终准备"],
+        "costs": ["理念质疑", "孤独前行"],
+        "emotional_drivers": ["创造欲", "使命感升华"]
+      },
+      {
+        "stage": "成熟阶段 - 命运创造者",
+        "time_period": "t=90-100%",
+        "abilities": "规则洞察精通，新世界构建",
+        "mindset": "智慧、包容、希望传承",
+        "goals": "建立新世界，传承希望",
+        "breakthroughs": ["最终对决胜利", "规则重构", "新世界建立"],
+        "costs": ["过往牺牲", "责任传承"],
+        "emotional_drivers": ["希望", "传承责任"]
+      }
+    ],
+    
+    "curve_model_explanation": {
+      "linear_growth_phase": "t=0-50%，稳步学习积累，能力线性提升",
+      "exponential_growth_inflection": "t=50%，灵墟秘境事件触发指数增长",
+      "exponential_growth_phase": "t=50-75%，情感冲击推动能力爆发式增长",
+      "asymptotic_growth_phase": "t=75-100%，能力趋于成熟，精神成长继续"
+    },
+    
+    "emotional_driving_forces": {
+      "primary_drivers": [
+        "求生本能 → 求知欲望 → 责任感 → 创造欲 → 希望传承",
+        "孤独感 → 归属感 → 使命感 → 突破欲 → 包容心"
+      ],
+      "catalyst_events": [
+        "穿越降临：激发求生本能",
+        "加入破界盟：建立归属感",
+        "重要人物牺牲：强化责任感",
+        "规则洞察觉醒：激发创造欲",
+        "新世界建立：实现希望传承"
+      ],
+      "emotional_transformation": "从被动接受到主动创造的情感升华"
+    },
+    
+    "core_insights_per_stage": {
+      "stage_1_insight": "命运不是注定的，而是需要勇气去面对的",
+      "stage_2_insight": "真正的力量来自于理解和超越规则",
+      "stage_3_insight": "牺牲的价值在于为他人创造希望",
+      "stage_4_insight": "创新不是否定传统，而是找到新的可能性",
+      "stage_5_insight": "真正的自由是理解规则后创造新的规则"
+    },
+    
+    "growth_catalysts": {
+      "key_events": [
+        "穿越降临：被迫成长的开端",
+        "规则洞察发现：能力成长的起点",
+        "灵墟秘境保卫战：情感成长的催化剂",
+        "最终对决：精神成长的完成"
+      ],
+      "key_people": [
+        "清虚道长：理念引导者",
+        "苏灵儿：情感支持者",
+        "铁无心：理念对照者",
+        "血煞：价值观挑战者"
+      ],
+      "key_choices": [
+        "加入破界盟：选择反抗命运",
+        "接受牺牲：选择承担责任",
+        "挑战天道：选择创造新可能",
+        "建设新生：选择希望而非毁灭"
+      ]
+    },
+    
+    "growth_costs": {
+      "emotional_costs": ["身份认同危机", "情感创伤", "责任压力", "理念质疑"],
+      "physical_costs": ["训练伤痛", "战斗伤害", "力量消耗"],
+      "social_costs": ["孤独前行", "理念冲突", "责任重担"],
+      "philosophical_costs": ["世界观重构", "价值观重塑", "信念考验"]
+    },
+    
+    "growth_manifestations": {
+      "behavioral_changes": [
+        "从被动逃避到主动承担",
+        "从个人求生到集体责任",
+        "从模仿学习到创新突破"
+      ],
+      "thinking_changes": [
+        "从线性思维到系统思维",
+        "从接受现实到创造可能",
+        "从个人视角到全局视角"
+      ],
+      "value_changes": [
+        "从生存价值到创造价值",
+        "从个人自由到集体责任",
+        "从传统守护到创新发展"
+      ]
+    },
+    
+    "growth_authenticity": {
+      "realistic_progression": [
+        "能力成长有明确的学习曲线",
+        "情感变化有充分的触发事件",
+        "理念成熟有渐进的发展过程"
+      ],
+      "setbacks_and_recoveries": [
+        "训练挫折后的坚持",
+        "情感创伤后的成长",
+        "理念冲突后的融合"
+      ],
+      "consistent_character_core": [
+        "始终保持善良本质",
+        "始终坚持希望信念",
+        "始终追求自由价值"
+      ]
+    },
+    
+    "supporting_characters_growth": {
+      "antagonist_growth": "从极端复仇到理解释然",
+      "mentor_growth": "从旁观指导到亲身参与",
+      "companion_growth": "从依赖他人到独立担当",
+      "rival_growth": "从固守传统到开放创新"
+    },
+    
+    "thematic_growth_integration": {
+      "fate_and_free_will": "通过成长体现命运与选择的辩证",
+      "sacrifice_and_hope": "通过牺牲展现成长的代价与价值",
+      "tradition_and_innovation": "通过理念冲突展现成长的必然性",
+      "individual_and_collective": "通过责任承担展现成长的社会性"
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "meme_outline": {
+    "meme_injection_strategy": {
+      "overall_approach": "适度融入，自然契合，服务主题",
+      "injection_ratio": "≤ 3% (控制在24章中的约0.7章内容)",
+      "integration_principles": [
+        "保持故事严肃基调",
+        "服务于角色塑造",
+        "增强时代感而非破坏沉浸感",
+        "符合主角穿越者身份"
+      ]
+    },
+    
+    "meme_injection_points": [
+      {
+        "chapter": 1,
+        "scene": "穿越降临后的内心独白",
+        "meme_type": "网络流行语",
+        "specific_meme": "「我这是……穿越了？不会吧，这也太离谱了！」",
+        "integration_method": "主角内心吐槽",
+        "purpose": "建立穿越者身份认同，增加真实感",
+        "appropriateness": "符合主角现代人身份，自然流露"
+      },
+      {
+        "chapter": 3,
+        "scene": "规则洞察能力发现时的惊讶",
+        "meme_type": "游戏术语",
+        "specific_meme": "「这能力……简直像开了外挂一样」",
+        "integration_method": "内心比喻",
+        "purpose": "用现代概念解释超自然能力",
+        "appropriateness": "符合年轻人思维习惯"
+      },
+      {
+        "chapter": 5,
+        "scene": "与苏灵儿初次对话",
+        "meme_type": "网络用语",
+        "specific_meme": "苏灵儿疑惑地问：「你说的'躺平'是什么意思？」",
+        "integration_method": "文化差异对话",
+        "purpose": "展现文化碰撞，增加趣味性",
+        "appropriateness": "自然的文化交流场景"
+      },
+      {
+        "chapter": 8,
+        "scene": "训练挫折后的自我鼓励",
+        "meme_type": "励志梗",
+        "specific_meme": "「加油，奥利给！这点困难算什么」",
+        "integration_method": "内心激励",
+        "purpose": "展现主角积极心态",
+        "appropriateness": "适度的正能量表达"
+      },
+      {
+        "chapter": 11,
+        "scene": "与铁无心的理念辩论",
+        "meme_type": "网络辩论梗",
+        "specific_meme": "「你这不就是典型的'你行你上'逻辑吗？」",
+        "integration_method": "辩论中的现代思维",
+        "purpose": "用现代逻辑挑战传统观念",
+        "appropriateness": "展现思维差异"
+      },
+      {
+        "chapter": 14,
+        "scene": "重要人物牺牲前的嘱托",
+        "meme_type": "影视梗引用",
+        "specific_meme": "清虚道长：「记住，能力越大，责任越大」",
+        "integration_method": "经典台词化用",
+        "purpose": "增强情感共鸣",
+        "appropriateness": "经典价值观表达"
+      },
+      {
+        "chapter": 18,
+        "scene": "反思阶段的内心独白",
+        "meme_type": "哲学梗",
+        "specific_meme": "「这大概就是传说中的'屠龙少年终成恶龙'困境吧」",
+        "integration_method": "文化隐喻",
+        "purpose": "深化主题思考",
+        "appropriateness": "符合反思氛围"
+      },
+      {
+        "chapter": 22,
+        "scene": "最终对决前的决心",
+        "meme_type": "游戏战斗梗",
+        "specific_meme": "「这波，必须拿下！」",
+        "integration_method": "战斗前的自我激励",
+        "purpose": "增加战斗场景的代入感",
+        "appropriateness": "适度的热血表达"
+      }
+    ],
+    
+    "meme_categories_used": {
+      "network_slang": ["离谱", "躺平", "奥利给", "拿下"],
+      "gaming_terms": ["外挂", "这波"],
+      "film_tv_references": ["能力越大责任越大"],
+      "philosophical_memes": ["屠龙少年终成恶龙"],
+      "debate_culture": ["你行你上"]
+    },
+    
+    "cultural_integration_depth": {
+      "surface_level": "直接引用流行语",
+      "medium_level": "文化差异对话",
+      "deep_level": "价值观隐喻和哲学思考",
+      "distribution": "表层60%，中层30%，深层10%"
+    },
+    
+    "meme_appropriateness_analysis": {
+      "character_consistency": "所有梗都符合主角穿越者身份",
+      "tone_maintenance": "梗的使用不影响故事严肃基调",
+      "narrative_flow": "梗自然融入情节发展",
+      "reader_engagement": "适度增加趣味性和代入感"
+    },
+    
+    "meme_avoidance_list": {
+      "avoided_types": [
+        "过于低俗的网络用语",
+        "时效性过强的短期流行语",
+        "可能引起争议的敏感话题",
+        "破坏修真世界沉浸感的现代词汇"
+      ],
+      "replacement_strategies": [
+        "用文化隐喻替代直接引用",
+        "用思维差异展现现代观念",
+        "用价值观共鸣替代表面幽默"
+      ]
+    },
+    
+    "meme_enhancement_effects": {
+      "character_development": "强化主角现代人身份特征",
+      "thematic_reinforcement": "用现代思维深化传统主题",
+      "reader_connection": "建立与年轻读者的文化共鸣",
+      "narrative_freshness": "为传统题材注入新意"
+    },
+    
+    "meme_implementation_guidelines": {
+      "dialogue_integration": "自然融入角色对话，符合人物性格",
+      "internal_monologue": "主要用于主角内心活动",
+      "cultural_references": "适度引用，避免过度解释",
+      "timing_and_frequency": "关键情节节点适度使用"
+    },
+    
+    "quality_assurance_metrics": {
+      "overall_impact": "增强而非削弱故事感染力",
+      "cultural_relevance": "符合目标读者文化背景",
+      "narrative_coherence": "不破坏故事逻辑和氛围",
+      "emotional_resonance": "增强而非分散情感体验"
+    }
+  }
+}

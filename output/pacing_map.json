@@ -1,0 +1,197 @@
+{
+  "pacing_map": {
+    "overall_pacing_framework": {
+      "opening_pacing": "快速引入，神秘氛围，立即建立生存危机",
+      "middle_pacing": "张弛有度，情感与冲突交替，稳步推进",
+      "ending_pacing": "高潮迭起，情感爆发，希望收尾"
+    },
+    
+    "pacing_distribution_table": [
+      {
+        "chapter_range": "1-3章",
+        "tension_level": 3,
+        "pacing_type": "快速引入",
+        "key_scenes": ["穿越降临", "生存适应", "能力发现"],
+        "emotional_tone": "神秘、迷茫、惊奇"
+      },
+      {
+        "chapter_range": "4-8章",
+        "tension_level": 2,
+        "pacing_type": "舒缓发展",
+        "key_scenes": ["加入破界盟", "人物关系建立", "基础训练"],
+        "emotional_tone": "希望、归属、学习"
+      },
+      {
+        "chapter_range": "9-12章",
+        "tension_level": 4,
+        "pacing_type": "紧张升级",
+        "key_scenes": ["血煞宗行动", "理念冲突", "训练挫折"],
+        "emotional_tone": "紧张、冲突、压力"
+      },
+      {
+        "chapter_range": "13-16章",
+        "tension_level": 5,
+        "pacing_type": "高潮爆发",
+        "key_scenes": ["灵墟秘境保卫战", "重要人物牺牲", "能力觉醒"],
+        "emotional_tone": "悲壮、愤怒、决心"
+      },
+      {
+        "chapter_range": "17-19章",
+        "tension_level": 3,
+        "pacing_type": "反思过渡",
+        "key_scenes": ["情感处理", "理念融合", "最终准备"],
+        "emotional_tone": "反思、成熟、决心"
+      },
+      {
+        "chapter_range": "20-22章",
+        "tension_level": 6,
+        "pacing_type": "最终高潮",
+        "key_scenes": ["天道山巅对决", "真相揭示", "命运抉择"],
+        "emotional_tone": "史诗、决绝、释然"
+      },
+      {
+        "chapter_range": "23-24章",
+        "tension_level": 2,
+        "pacing_type": "希望收尾",
+        "key_scenes": ["新世界建立", "和解传承", "希望展望"],
+        "emotional_tone": "宁静、希望、新生"
+      }
+    ],
+    
+    "emotional_fluctuation_curve": {
+      "peaks": [
+        {"position": "第1章", "intensity": 3, "reason": "穿越冲击，生存危机"},
+        {"position": "第9章", "intensity": 4, "reason": "冲突升级，外部威胁"},
+        {"position": "第14章", "intensity": 5, "reason": "重要人物牺牲，情感爆发"},
+        {"position": "第21章", "intensity": 6, "reason": "最终对决，命运抉择"}
+      ],
+      "valleys": [
+        {"position": "第5-6章", "intensity": 2, "reason": "人物关系建立，学习成长"},
+        {"position": "第18章", "intensity": 3, "reason": "反思过渡，理念融合"},
+        {"position": "第24章", "intensity": 2, "reason": "希望收尾，情感释然"}
+      ],
+      "overall_pattern": "波浪式上升，最终回归平静希望"
+    },
+    
+    "tension_trigger_points": {
+      "major_triggers": [
+        {
+          "trigger": "穿越降临",
+          "chapter": 1,
+          "tension_impact": "建立生存危机，引发读者好奇",
+          "emotional_effect": "神秘感、惊奇感"
+        },
+        {
+          "trigger": "血煞宗行动开始",
+          "chapter": 9,
+          "tension_impact": "外部威胁明确化，冲突升级",
+          "emotional_effect": "紧张感、危机感"
+        },
+        {
+          "trigger": "灵墟秘境保卫战",
+          "chapter": 13,
+          "tension_impact": "主要冲突爆发，情感冲击",
+          "emotional_effect": "悲壮感、愤怒感"
+        },
+        {
+          "trigger": "最终对决",
+          "chapter": 21,
+          "tension_impact": "故事最高潮，命运抉择",
+          "emotional_effect": "史诗感、释然感"
+        }
+      ],
+      "minor_triggers": [
+        {"trigger": "规则洞察发现", "chapter": 2, "tension_impact": "能力觉醒暗示"},
+        {"trigger": "训练挫折", "chapter": 11, "tension_impact": "成长障碍"},
+        {"trigger": "理念冲突激化", "chapter": 12, "tension_impact": "内部矛盾"}
+      ]
+    },
+    
+    "pacing_ratio_suggestion": {
+      "calm_scenes": "33% (约8章)",
+      "tense_scenes": "50% (约12章)", 
+      "climax_scenes": "17% (约4章)",
+      "ratio_approximation": "2:3:1",
+      "distribution_justification": "保持读者兴趣的同时给予情感缓冲"
+    },
+    
+    "scene_pacing_types": {
+      "fast_paced_scenes": [
+        "动作战斗场景",
+        "紧急逃生场景", 
+        "激烈辩论场景",
+        "重大转折场景"
+      ],
+      "medium_paced_scenes": [
+        "人物对话场景",
+        "情节发展场景",
+        "理念讨论场景",
+        "情感交流场景"
+      ],
+      "slow_paced_scenes": [
+        "环境描述场景",
+        "内心独白场景",
+        "反思总结场景",
+        "希望展望场景"
+      ]
+    },
+    
+    "chapter_pacing_planning": {
+      "chapter_transitions": [
+        "快→慢：战斗后的反思",
+        "慢→快：平静中的危机爆发", 
+        "中→快：对话中的冲突升级",
+        "快→中：高潮后的情感处理"
+      ],
+      "rhythm_variety": "确保相邻章节节奏差异，避免单调"
+    },
+    
+    "pacing_emotion_correlation": {
+      "tension_emotion_mapping": [
+        {"tension_level": 1, "emotions": ["宁静", "平和", "希望"]},
+        {"tension_level": 2, "emotions": ["好奇", "学习", "归属"]},
+        {"tension_level": 3, "emotions": ["紧张", "压力", "冲突"]},
+        {"tension_level": 4, "emotions": ["愤怒", "危机", "决心"]},
+        {"tension_level": 5, "emotions": ["悲壮", "牺牲", "觉醒"]},
+        {"tension_level": 6, "emotions": ["史诗", "决绝", "释然"]}
+      ],
+      "character_emotion_pacing": "主角情感变化与场景节奏同步发展"
+    },
+    
+    "pacing_techniques": {
+      "accelerating_techniques": [
+        "短句使用：增加紧迫感",
+        "动作描写：增强动态感",
+        "对话节奏：快速交锋",
+        "场景切换：多线并行"
+      ],
+      "decelerating_techniques": [
+        "长句使用：营造沉思氛围",
+        "环境描写：建立空间感",
+        "内心独白：深入情感",
+        "细节刻画：丰富体验"
+      ],
+      "pacing_variation_techniques": [
+        "留白处理：给读者思考空间",
+        "悬念设置：保持阅读动力",
+        "情感缓冲：高潮后的平静",
+        "节奏对比：快慢场景交替"
+      ]
+    },
+    
+    "pacing_quality_assurance": {
+      "avoid_monotony": "确保节奏变化，避免长时间单一节奏",
+      "maintain_engagement": "关键节点保持足够张力",
+      "emotional_balance": "紧张与舒缓的合理分配",
+      "narrative_flow": "节奏服务于情节发展和情感表达"
+    },
+    
+    "emotional_tone_integration": {
+      "overall_tone": "希望与成长的史诗",
+      "tone_variations": [
+        "神秘惊奇 → 希望归属 → 紧张冲突 → 悲壮觉醒 → 史诗释然 → 宁静希望"
+      ],
+      "tone_pacing_alignment": "情感基调与节奏变化完美同步"
+    }
+  }
+}

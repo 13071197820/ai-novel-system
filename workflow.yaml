@@ -1,0 +1,101 @@
+name: AI 小说自动生成工作流
+version: 1.0.0
+description: 自动生成从世界观到章节文本的完整小说架构。
+variables:
+  include: config.yaml
+
+workflow:
+  - id: world
+    name: 世界观构建
+    prompt: prompts/01_world_building.prompt.md
+    output: output/world.json
+
+  - id: power
+    name: 力量体系
+    prompt: prompts/01b_power_system.prompt.md
+    inputs:
+      world_overview: output/world.json
+    output: output/power_system.json
+
+  - id: lore
+    name: 历史文化背景
+    prompt: prompts/02_lore_background.prompt.md
+    inputs:
+      world_overview: output/world.json
+      power_system: output/power_system.json
+    output: output/lore.json
+
+  - id: characters
+    name: 人物构建
+    prompt: prompts/03_character_design.prompt.md
+    inputs:
+      world_overview: output/world.json
+      lore_background: output/lore.json
+      power_system: output/power_system.json
+    output: output/characters.json
+
+  - id: scenes
+    name: 场景设定
+    prompt: prompts/04_scene_creation.prompt.md
+    inputs:
+      world_overview: output/world.json
+      characters: output/characters.json
+    output: output/scenes.json
+
+  - id: plot
+    name: 主线剧情结构
+    prompt: prompts/05_plot_structure.prompt.md
+    inputs:
+      world_overview: output/world.json
+      characters: output/characters.json
+      scenes: output/scenes.json
+    output: output/plot_structure.json
+
+  - id: conflict
+    name: 冲突优化
+    prompt: prompts/05b_conflict_refiner.prompt.md
+    inputs:
+      plot_structure: output/plot_structure.json
+    output: output/refined_conflicts.json
+
+  - id: growth
+    name: 成长曲线优化
+    prompt: prompts/05c_growth_curve.prompt.md
+    inputs:
+      refined_conflicts: output/refined_conflicts.json
+      characters: output/characters.json
+    output: output/growth_curve.json
+
+  - id: pacing
+    name: 节奏图谱生成
+    prompt: prompts/05d_plot_pacing.prompt.md
+    inputs:
+      growth_curve: output/growth_curve.json
+      emotional_tone: "{{emotional_tone}}"
+    output: output/pacing_map.json
+
+  - id: meme
+    name: 热梗注入
+    prompt: prompts/06_meme_injector.prompt.md
+    inputs:
+      pacing_map: output/pacing_map.json
+    output: output/meme_outline.json
+
+  - id: outline
+    name: 大纲生成
+    prompt: prompts/07_outline_generation.prompt.md
+    inputs:
+      meme_adjusted_outline: output/meme_outline.json
+    output: output/outline.json
+
+  - id: chapter
+    name: 下一章生成
+    prompt: prompts/08_chapter_writer.prompt.md
+    inputs:
+      outline: output/outline.json
+      characters: output/characters.json
+      power_system: output/power_system.json
+      tone: "{{tone}}"
+      pacing_map: output/pacing_map.json
+      n: "output/chapter_{x}.txt  取max(x)"
+    output: output/chapter/chapter_{{n+1}}.txt

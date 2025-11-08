@@ -1,0 +1,131 @@
+{
+  "scenes": {
+    "core_scenes": [
+      {
+        "scene_name": "穿越降临 - 灵墟边缘",
+        "location_setting": "灵墟纪元的边缘地带，时空裂隙频繁出现的荒芜区域。地面布满奇异的紫色晶石，空气中弥漫着扭曲的灵气波动，远处可见悬浮山脉的轮廓。",
+        "time_setting": "黄昏时分，故事开场",
+        "participating_characters": ["林破天"],
+        "scene_objective": "主角穿越降临，奠定故事基调，展示世界特色",
+        "atmosphere_tone": "神秘、迷茫、充满未知",
+        "key_events": ["主角从现代世界穿越而来", "初次接触灵气", "发现规则洞察能力"],
+        "visual_details": ["扭曲的时空裂隙", "紫色晶石发光", "悬浮山脉剪影", "灵气如雾气般流动"],
+        "audio_details": ["时空裂隙的嗡鸣声", "晶石碰撞的清脆声响", "远处妖兽的嘶吼"],
+        "emotional_elements": ["迷茫", "惊奇", "恐惧", "希望"],
+        "conflict_potential": "生存冲突、环境适应、力量觉醒",
+        "symbolic_meaning": "新生与开始的象征，命运的转折点",
+        "visual_keywords": ["时空裂隙", "紫色晶石", "悬浮山脉", "灵气迷雾"]
+      },
+      {
+        "scene_name": "破界盟总部 - 破界台",
+        "location_setting": "隐藏在深山中的反抗组织基地，巨大的石台悬浮在半空中，周围环绕着古老的符文禁制。建筑风格融合传统与创新，既有飞檐翘角，又有现代防御设施。",
+        "time_setting": "正午，故事发展初期",
+        "participating_characters": ["林破天", "清虚道长", "苏灵儿", "铁无心"],
+        "scene_objective": "主角加入反抗组织，建立主要人物关系",
+        "atmosphere_tone": "希望、紧张、使命感",
+        "key_events": ["主角被清虚道长发现", "加入破界盟", "与苏灵儿和铁无心初次相遇", "接受规则洞察训练"],
+        "visual_details": ["悬浮石台", "古老符文发光", "灵气流转的修炼场", "反抗旗帜飘扬"],
+        "audio_details": ["符文运转的嗡鸣", "修炼者的吐纳声", "远处瀑布的轰鸣"],
+        "emotional_elements": ["希望", "归属感", "使命感", "紧张"],
+        "conflict_potential": "理念冲突、内部矛盾、训练挑战",
+        "symbolic_meaning": "希望与反抗的象征，改变命运的开端",
+        "visual_keywords": ["悬浮石台", "古老符文", "修炼场", "反抗旗帜"]
+      },
+      {
+        "scene_name": "血煞宗入侵 - 灵墟秘境",
+        "location_setting": "灵气复苏的源头，充满古老遗迹的神秘秘境。血红色的魔气侵蚀着原本纯净的灵气，遗迹在魔气中若隐若现，天地间弥漫着肃杀之气。",
+        "time_setting": "深夜，故事转折点",
+        "participating_characters": ["林破天", "血煞", "苏灵儿", "清虚道长"],
+        "scene_objective": "主要冲突爆发，推动剧情发展",
+        "atmosphere_tone": "紧张、危险、悲壮",
+        "key_events": ["血煞宗大举入侵", "苏灵儿为救主角重伤", "清虚道长牺牲", "主角规则洞察能力觉醒"],
+        "visual_details": ["血色魔气弥漫", "古老遗迹崩塌", "灵气与魔气激烈碰撞", "牺牲者的光芒"],
+        "audio_details": ["魔气的嘶吼", "遗迹崩塌的巨响", "战斗的呐喊", "牺牲的悲鸣"],
+        "emotional_elements": ["愤怒", "悲伤", "决心", "牺牲"],
+        "conflict_potential": "生死战斗、理念对决、情感冲击",
+        "symbolic_meaning": "牺牲与成长的象征，命运的残酷考验",
+        "visual_keywords": ["血色魔气", "崩塌遗迹", "灵气碰撞", "牺牲光芒"]
+      },
+      {
+        "scene_name": "天道山巅 - 规则对决",
+        "location_setting": "传说中最接近天道规则的地方，山巅云雾缭绕，规则之力具现化为可见的光纹在空中流转。时空在这里变得不稳定，过去与未来的景象交替闪现。",
+        "time_setting": "黎明，故事高潮",
+        "participating_characters": ["林破天", "血煞"],
+        "scene_objective": "最终对决，解决核心冲突",
+        "atmosphere_tone": "史诗、悲壮、决定性",
+        "key_events": ["主角与反派的最终对决", "规则洞察与血煞魔功的碰撞", "天道真相的揭示", "命运的选择"],
+        "visual_details": ["规则光纹流转", "时空扭曲的景象", "山巅的破晓之光", "对决的能量爆发"],
+        "audio_details": ["规则碰撞的轰鸣", "时空扭曲的撕裂声", "内心的独白", "命运的钟声"],
+        "emotional_elements": ["决绝", "理解", "释然", "希望"],
+        "conflict_potential": "理念最终对决、命运抉择、自我救赎",
+        "symbolic_meaning": "命运与自由的最终较量，新生的曙光",
+        "visual_keywords": ["规则光纹", "时空扭曲", "破晓之光", "能量爆发"]
+      },
+      {
+        "scene_name": "新生灵墟 - 希望重建",
+        "location_setting": "规则重构后的灵墟纪元，灵气重新变得纯净，悬浮山脉上生长出新的灵植，古老的遗迹焕发新生，天地间充满生机与希望。",
+        "time_setting": "清晨，故事结局",
+        "participating_characters": ["林破天", "铁无心"],
+        "scene_objective": "展示结局，传达主题",
+        "atmosphere_tone": "希望、宁静、新生",
+        "key_events": ["新世界的展示", "主角与对照者的和解", "希望的传承", "新的开始"],
+        "visual_details": ["纯净的灵气流动", "新生的灵植", "重建的遗迹", "希望的曙光"],
+        "audio_details": ["灵植生长的细微声响", "清风的低语", "远处的钟声", "希望的歌声"],
+        "emotional_elements": ["宁静", "希望", "释然", "新生"],
+        "conflict_potential": "理念融合、责任传承、未来展望",
+        "symbolic_meaning": "新生与希望的象征，命运的重新开始",
+        "visual_keywords": ["纯净灵气", "新生灵植", "重建遗迹", "希望曙光"]
+      }
+    ],
+    
+    "scene_connections": {
+      "progression": "灵墟边缘 → 破界台 → 灵墟秘境 → 天道山巅 → 新生灵墟",
+      "emotional_arc": "迷茫 → 希望 → 牺牲 → 对决 → 新生",
+      "conflict_development": "生存 → 理念 → 生死 → 命运 → 和解"
+    },
+    
+    "world_showcase_scenes": [
+      {
+        "scene_name": "万法宗门 - 传统修真",
+        "purpose": "展示传统修真文明的辉煌与局限",
+        "key_elements": ["古老建筑", "严谨修炼", "等级森严"]
+      },
+      {
+        "scene_name": "凡尘市集 - 底层生活",
+        "purpose": "展示普通人在修真世界的生存状态",
+        "key_elements": ["市井生活", "灵气稀薄", "命运挣扎"]
+      },
+      {
+        "scene_name": "时空裂隙 - 规则异常",
+        "purpose": "展示天道规则被侵蚀的直观表现",
+        "key_elements": ["时空扭曲", "规则混乱", "危险机遇"]
+      }
+    ],
+    
+    "emotional_scenes": [
+      {
+        "scene_name": "师徒传承 - 破界台修炼场",
+        "emotional_focus": "师徒情深与理念传承",
+        "key_moments": ["规则洞察的传授", "理念的碰撞与融合"]
+      },
+      {
+        "scene_name": "生死离别 - 灵墟秘境",
+        "emotional_focus": "牺牲与救赎",
+        "key_moments": ["苏灵儿的牺牲", "清虚道长的嘱托"]
+      },
+      {
+        "scene_name": "宿命理解 - 天道山巅",
+        "emotional_focus": "理解与释然",
+        "key_moments": ["主角与反派的最终对话", "命运的真相揭示"]
+      }
+    ],
+    
+    "scene_symbolism": {
+      "灵墟边缘": "新生与未知",
+      "破界台": "希望与反抗", 
+      "灵墟秘境": "牺牲与成长",
+      "天道山巅": "命运与自由",
+      "新生灵墟": "希望与新生"
+    }
+  }
+}

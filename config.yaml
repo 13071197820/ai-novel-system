@@ -1,0 +1,70 @@
+# AI小说系统全局配置
+# 🌍 全局创作配置
+genre: "东方玄幻"
+theme: "凡人如何突破宿命"
+tone: "热血、叙事节奏紧"
+world_era: "灵气复苏后的千年纪元，存在侵蚀天道的诡异规则"
+protagonist_gender: "男"
+emotional_tone: "种田、 修真科技、希望、牺牲、觉醒"
+admin: "穿越者、逆袭张力、杀伐果断、智谋在线、独一无二的金手指、读者的梦想容器、爽感发动机、人设稳定"
+
+# 安全设置
+security:
+  content_filter: true  # 是否启用内容过滤
+  allowed_content_categories:  # 允许的内容类别
+    - "冒险"
+    - "奇幻"
+    - "科幻"
+    - "武侠"
+  disallowed_content:  # 禁止的内容
+    - "暴力"
+    - "色情"
+    - "政治敏感"
+
+# 性能优化
+performance:
+  cache_enabled: true  # 是否启用缓存
+  cache_directory: "./cache"  # 缓存目录
+  max_cache_size_mb: 500  # 最大缓存大小 (MB)
+
+# 国际化配置
+i18n:
+  default_language: "zh-CN"
+  available_languages:
+    - "zh-CN"
+    - "en-US"
+
+# 模型参数
+parameters:
+  temperature: 0.7  # 创造性程度 (0-2)
+  max_tokens: 4000  # 最大生成 token 数
+  top_p: 0.95  # 核采样参数
+  frequency_penalty: 0.0  # 频率惩罚
+  presence_penalty: 0.0  # 存在惩罚
+
+# 文件路径配置
+paths:
+  prompts_directory: "./prompts"  # 提示词文件目录
+  output_directory: "./output"  # 输出文件目录
+  workflow_config: "./workflow.yaml"  # 工作流配置文件
+
+# 输出格式配置
+output:
+  format: "json"  # 默认输出格式
+  indentation: 2  # JSON缩进空格数
+  encoding: "utf-8"  # 文件编码
+  overwrite_existing: false  # 是否覆盖已存在的文件
+
+# 工作流配置
+workflow:
+  auto_execute_dependencies: true  # 是否自动执行依赖的阶段
+  save_intermediate_results: true  # 是否保存中间结果
+  retry_count: 3  # 失败重试次数
+  timeout_seconds: 300  # API调用超时时间
+
+# 日志配置
+logging:
+  level: "INFO"  # 日志级别: DEBUG, INFO, WARNING, ERROR
+  log_file: "ai_novel.log"  # 日志文件
+  console_output: true  # 是否输出到控制台
+

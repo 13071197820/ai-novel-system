@@ -1,0 +1,169 @@
+{
+  "plot_structure": {
+    "three_act_structure": {
+      "act_one": {
+        "name": "命运降临",
+        "description": "主角穿越到灵墟纪元，发现世界真相，加入反抗组织",
+        "key_events": [
+          "穿越降临灵墟边缘",
+          "初次接触灵气和规则洞察能力",
+          "被清虚道长发现并救回",
+          "加入破界盟，结识苏灵儿和铁无心",
+          "接受规则洞察训练"
+        ],
+        "tension_peaks": ["穿越时的生存危机", "加入破界盟的抉择", "初次训练失败"]
+      },
+      "act_two": {
+        "name": "牺牲与觉醒",
+        "description": "主要冲突爆发，重要人物牺牲，主角能力觉醒",
+        "key_events": [
+          "血煞宗开始大规模行动",
+          "灵墟秘境保卫战",
+          "苏灵儿为救主角重伤",
+          "清虚道长牺牲",
+          "主角规则洞察能力完全觉醒",
+          "与铁无心的理念冲突激化"
+        ],
+        "tension_peaks": ["灵墟秘境入侵", "苏灵儿重伤", "清虚道长牺牲"]
+      },
+      "act_three": {
+        "name": "破界新生",
+        "description": "最终对决，真相揭示，新世界建立",
+        "key_events": [
+          "主角与血煞的最终对决",
+          "天道真相的揭示",
+          "命运的选择与规则重构",
+          "新世界的建立",
+          "与铁无心的和解",
+          "希望的传承"
+        ],
+        "tension_peaks": ["天道山巅对决", "命运抉择时刻", "规则重构过程"]
+      }
+    },
+    
+    "main_conflicts": {
+      "world_level_crisis": "天道规则被侵蚀，修真文明面临崩溃危机",
+      "personal_inner_crisis": "主角对命运的执着与自由意志的冲突",
+      "dual_conflict_parallel": "外部世界危机与内心成长危机相互映照"
+    },
+    
+    "core_subplots": [
+      {
+        "subplot_name": "师徒传承线",
+        "description": "清虚道长与主角的师徒关系发展",
+        "key_moments": ["初次相遇", "规则洞察传授", "牺牲嘱托", "精神传承"],
+        "impact_on_protagonist": "提供指导，塑造理念，推动成长"
+      },
+      {
+        "subplot_name": "情感羁绊线",
+        "description": "主角与苏灵儿的感情发展",
+        "key_moments": ["初次相遇", "相互扶持", "生死相救", "永恒牺牲"],
+        "impact_on_protagonist": "提供情感支持，激发责任感，推动觉醒"
+      },
+      {
+        "subplot_name": "理念碰撞线",
+        "description": "主角与铁无心的理念冲突与融合",
+        "key_moments": ["初次竞争", "理念辩论", "生死考验", "最终和解"],
+        "impact_on_protagonist": "促进思想成熟，完善世界观"
+      }
+    ],
+    
+    "philosophical_core": {
+      "central_theme": "宿命与自由意志的辩证关系",
+      "explored_questions": [
+        "命运是否可以改变？",
+        "规则是保护还是束缚？",
+        "牺牲的意义是什么？",
+        "真正的自由是什么？"
+      ],
+      "philosophical_conclusions": [
+        "命运不是注定的，而是需要勇气去改变的",
+        "真正的自由不是无规则，而是理解并超越规则",
+        "牺牲的价值在于为他人创造希望",
+        "成长的意义在于找到自己的道路"
+      ]
+    },
+    
+    "narrative_rhythm_beats": {
+      "act_one_beats": [
+        {"beat": "开场冲击", "position": "0%", "description": "主角穿越，生存危机"},
+        {"beat": "引发事件", "position": "15%", "description": "发现规则洞察能力"},
+        {"beat": "第一转折", "position": "25%", "description": "加入破界盟"}
+      ],
+      "act_two_beats": [
+        {"beat": "冲突升级", "position": "35%", "description": "血煞宗开始行动"},
+        {"beat": "中点转折", "position": "50%", "description": "灵墟秘境保卫战开始"},
+        {"beat": "情感低谷", "position": "65%", "description": "苏灵儿重伤，清虚牺牲"},
+        {"beat": "能力觉醒", "position": "75%", "description": "规则洞察完全觉醒"}
+      ],
+      "act_three_beats": [
+        {"beat": "最终准备", "position": "85%", "description": "前往天道山巅"},
+        {"beat": "高潮对决", "position": "90%", "description": "与血煞的最终战斗"},
+        {"beat": "真相揭示", "position": "95%", "description": "天道真相和命运选择"},
+        {"beat": "结局收尾", "position": "100%", "description": "新世界建立"}
+      ]
+    },
+    
+    "plot_points_design": {
+      "inciting_incident": "主角穿越到灵墟纪元，发现规则洞察能力",
+      "first_turning_point": "加入破界盟，正式踏上反抗命运之路",
+      "midpoint": "灵墟秘境保卫战，重要人物牺牲，主角觉醒",
+      "second_turning_point": "规则洞察完全觉醒，决定挑战天道",
+      "climax": "天道山巅的最终对决和命运抉择",
+      "resolution": "规则重构，新世界建立，希望传承"
+    },
+    
+    "foreshadowing_design": [
+      {
+        "foreshadow": "规则洞察能力的潜力",
+        "setup": "穿越时的异常感知",
+        "payoff": "最终对决时的完全觉醒"
+      },
+      {
+        "foreshadow": "清虚道长的牺牲",
+        "setup": "多次提及改变命运的代价",
+        "payoff": "灵墟秘境的自我牺牲"
+      },
+      {
+        "foreshadow": "血煞的真实动机",
+        "setup": "零散提及过去的悲剧",
+        "payoff": "最终对决时的真相揭示"
+      },
+      {
+        "foreshadow": "新世界的可能性",
+        "setup": "破界理念的讨论",
+        "payoff": "结局的新生灵墟"
+      }
+    ],
+    
+    "conflict_design": {
+      "external_conflicts": [
+        "生存冲突：在陌生世界的适应",
+        "力量冲突：与血煞宗的战斗",
+        "理念冲突：与铁无心的观念碰撞",
+        "命运冲突：与天道规则的对抗"
+      ],
+      "internal_conflicts": [
+        "身份认同：穿越者的自我定位",
+        "责任承担：对他人生死的责任感",
+        "信念动摇：对破界理念的质疑",
+        "命运接受：对宿命论的反抗"
+      ]
+    },
+    
+    "character_growth_arcs": {
+      "protagonist_growth": "从被动接受命运到主动创造命运",
+      "antagonist_growth": "从极端复仇到理解与释然",
+      "mentor_growth": "从旁观指导到亲身参与",
+      "companion_growth": "从依赖他人到独立担当",
+      "rival_growth": "从固守传统到开放创新"
+    },
+    
+    "theme_development": {
+      "fate_vs_free_will": "贯穿始终的核心主题",
+      "sacrifice_and_redemption": "通过关键人物的牺牲展现",
+      "tradition_vs_innovation": "通过理念冲突体现",
+      "hope_and_rebirth": "通过结局的新世界传达"
+    }
+  }
+}

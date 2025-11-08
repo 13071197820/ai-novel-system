@@ -1,0 +1,123 @@
+{
+  "power_system": {
+    "system_name": "灵墟道途",
+    "power_source": "灵气复苏后产生的天地元气，但受到天道侵蚀影响，修炼变得异常艰难",
+    "genre": "东方玄幻",
+    "protagonist_background": "穿越者、逆袭张力、杀伐果断、智谋在线、独一无二的金手指、读者的梦想容器、爽感发动机、人设稳定",
+    
+    "system_overview": "在灵墟纪元，修炼者通过吸收天地灵气来提升修为。但由于天道规则被侵蚀，传统修炼方法效果大减，需要寻找新的突破途径。力量体系强调道心修为与意志力的重要性。",
+    
+    "realm_divisions": [
+      {
+        "realm": "炼气境",
+        "level": 1,
+        "description": "初步接触灵气，能够感知和引导微量灵气",
+        "lifespan": "100-150年",
+        "abilities": ["基础灵气感知", "简单法术施展"]
+      },
+      {
+        "realm": "筑基境",
+        "level": 2,
+        "description": "灵气在体内形成稳定循环，奠定修炼基础",
+        "lifespan": "200-300年",
+        "abilities": ["御器飞行", "基础阵法布置"]
+      },
+      {
+        "realm": "金丹境",
+        "level": 3,
+        "description": "凝聚金丹，灵气质量大幅提升",
+        "lifespan": "500-800年",
+        "abilities": ["神通初显", "空间穿梭"]
+      },
+      {
+        "realm": "元婴境",
+        "level": 4,
+        "description": "金丹化婴，神识大幅增强",
+        "lifespan": "1000-2000年",
+        "abilities": ["元婴出窍", "领域展开"]
+      },
+      {
+        "realm": "化神境",
+        "level": 5,
+        "description": "元婴化神，触及规则层面",
+        "lifespan": "3000-5000年",
+        "abilities": ["规则感悟", "时空操控"]
+      },
+      {
+        "realm": "合道境",
+        "level": 6,
+        "description": "与天道相合，近乎不朽",
+        "lifespan": "万年以上",
+        "abilities": ["天道共鸣", "创造规则"]
+      }
+    ],
+    
+    "cultivation_paths": {
+      "protagonist_path": "破界道途 - 通过穿越者独特的视角，发现被天道规则隐藏的修炼捷径",
+      "common_paths": [
+        "传统修真法 - 按部就班的灵气积累",
+        "血脉觉醒法 - 激活先祖传承",
+        "奇遇顿悟法 - 通过机缘巧合突破"
+      ],
+      "special_paths": [
+        "逆天改命 - 挑战宿命束缚",
+        "规则重构 - 重新定义修炼体系"
+      ]
+    },
+    
+    "energy_side_effects": {
+      "limitations": [
+        "心魔劫 - 修为提升时面临内心考验",
+        "天道反噬 - 过度使用力量会遭到规则惩罚",
+        "灵气枯竭 - 在灵气稀薄区域实力大幅下降",
+        "因果纠缠 - 每个行为都会产生相应后果"
+      ],
+      "costs": [
+        "寿命消耗 - 某些强大法术需要消耗寿命",
+        "道心受损 - 违背本心会损伤修为根基",
+        "气运衰减 - 过度干预命运会降低气运"
+      ]
+    },
+    
+    "growth_core_formula": "意志觉醒 → 规则洞察 → 代价承受 → 境界突破 → 宿命挑战",
+    
+    "symbolic_philosophy": {
+      "core_symbols": ["破界", "觉醒", "代价", "宿命"],
+      "philosophical_themes": [
+        "力量与责任的辩证关系",
+        "自由意志与宿命安排的冲突",
+        "传统与创新的价值权衡",
+        "个体成长与集体利益的平衡"
+      ]
+    },
+    
+    "ability_classifications": {
+      "combat_abilities": ["剑道", "法术", "阵法", "符箓"],
+      "support_abilities": ["炼丹", "炼器", "占卜", "治疗"],
+      "special_abilities": ["时空操控", "因果干涉", "命运修改"]
+    },
+    
+    "cultivation_methods": [
+      "灵气吐纳 - 基础修炼方法",
+      "秘境探索 - 寻找机缘",
+      "生死历练 - 在危险中突破",
+      "顿悟参透 - 理解天地规则"
+    ],
+    
+    "special_abilities": {
+      "protagonist_unique": "规则洞察 - 能够看透被侵蚀的天道规则漏洞",
+      "rare_abilities": [
+        "时空回溯 - 短暂回到过去",
+        "因果斩断 - 切断命运联系",
+        "天道共鸣 - 与天地规则产生共鸣"
+      ]
+    },
+    
+    "balance_mechanisms": {
+      "power_balance": "每个境界都有对应的瓶颈和考验",
+      "resource_limitation": "高级修炼资源稀缺",
+      "moral_constraints": "道心修为决定实力上限",
+      "fate_interference": "过度干预命运会遭到反噬"
+    }
+  }
+}

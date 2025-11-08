@@ -1,0 +1,117 @@
+{
+  "world_overview": {
+    "world_name": "灵墟纪元",
+    "genre": "东方玄幻",
+    "theme": "凡人如何突破宿命",
+    "tone": "热血、叙事节奏紧凑",
+    "world_era": "灵气复苏后的千年纪元，存在侵蚀天道的诡异规则",
+    "protagonist_background": "穿越者、逆袭张力、杀伐果断、智谋在线、独一无二的金手指、读者的梦想容器、爽感发动机、人设稳定",
+    
+    "world_description": "在灵气复苏千年后的灵墟纪元，世界被划分为九重天域。底层是凡尘俗世，中层是修真界域，上层则是神魔战场。天道规则被神秘力量侵蚀，导致修炼体系出现异常，凡人突破境界变得异常艰难。",
+    
+    "civilization_levels": [
+      {
+        "level": "凡尘境",
+        "description": "普通凡人世界，灵气稀薄，寿命短暂"
+      },
+      {
+        "level": "修真境",
+        "description": "修真者聚集之地，灵气充沛，宗门林立"
+      },
+      {
+        "level": "天域境",
+        "description": "高阶修士领域，接近天道规则"
+      },
+      {
+        "level": "神魔境",
+        "description": "神魔战场，规则混乱，危机四伏"
+      }
+    ],
+    
+    "social_political_structure": {
+      "ruling_system": "宗门联盟制",
+      "major_factions": [
+        {
+          "name": "天机阁",
+          "type": "情报组织",
+          "influence": "掌控修真界信息流通"
+        },
+        {
+          "name": "万法宗",
+          "type": "修炼宗门",
+          "influence": "传统修真势力代表"
+        },
+        {
+          "name": "破界盟",
+          "type": "反抗组织",
+          "influence": "挑战现有秩序"
+        }
+      ],
+      "power_distribution": "宗门割据，联盟共治"
+    },
+    
+    "core_conflicts": [
+      {
+        "conflict": "秩序 vs 混沌",
+        "description": "天道规则被侵蚀导致的秩序崩坏"
+      },
+      {
+        "conflict": "凡人 vs 天命",
+        "description": "凡人试图突破宿命束缚的斗争"
+      },
+      {
+        "conflict": "传统 vs 革新",
+        "description": "新旧修炼体系的碰撞"
+      }
+    ],
+    
+    "world_keywords": ["意志", "献祭", "破界", "觉醒", "宿命"],
+    
+    "fate_themes": [
+      {
+        "theme": "天道侵蚀",
+        "description": "神秘力量正在逐步蚕食世界规则"
+      },
+      {
+        "theme": "纪元终结",
+        "description": "当前纪元即将迎来终局性危机"
+      },
+      {
+        "theme": "命运抉择",
+        "description": "世界面临重大命运转折点"
+      }
+    ],
+    
+    "geography": {
+      "main_terrain": "九重天域层层叠加的立体世界结构",
+      "climate": "灵气浓度决定气候，灵气充沛处四季如春",
+      "features": ["悬浮山脉", "灵气漩涡", "时空裂隙", "遗迹秘境"]
+    },
+    
+    "history_background": {
+      "key_events": [
+        "千年前灵气复苏",
+        "五百年前天道异变",
+        "三百年前宗门大战",
+        "百年前规则侵蚀加剧"
+      ],
+      "development_stages": ["蛮荒时代", "修真兴起", "宗门鼎盛", "规则崩坏"]
+    },
+    
+    "cultural_features": {
+      "arts": "以灵气为媒介的符箓艺术",
+      "religion": "天道崇拜与先祖信仰并存",
+      "customs": "宗门传承制度，师徒关系紧密",
+      "values": "强者为尊，但强调道心修为"
+    },
+    
+    "magic_tech_level": "修真文明高度发达，但受规则侵蚀影响",
+    
+    "core_philosophical_themes": [
+      "宿命与自由意志的辩证关系",
+      "力量与责任的平衡",
+      "传统与创新的冲突",
+      "个体与集体的利益权衡"
+    ]
+  }
+}

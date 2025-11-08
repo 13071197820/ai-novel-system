@@ -1,0 +1,240 @@
+{
+  "lore_background": {
+    "historical_timeline": [
+      {
+        "event": "灵气复苏",
+        "time": "纪元前1000年",
+        "description": "天地间突然涌现大量灵气，开启了修真时代",
+        "impact": "凡人开始接触修炼，修真文明兴起"
+      },
+      {
+        "event": "天道异变",
+        "time": "纪元前500年",
+        "description": "天道规则出现异常波动，修炼难度大幅增加",
+        "impact": "传统修炼方法失效，修真界陷入混乱"
+      },
+      {
+        "event": "宗门大战",
+        "time": "纪元前300年",
+        "description": "各大宗门为争夺修炼资源爆发全面战争",
+        "impact": "修真界格局重组，大量传承断绝"
+      },
+      {
+        "event": "规则侵蚀加剧",
+        "time": "纪元前100年",
+        "description": "天道规则被神秘力量加速侵蚀",
+        "impact": "修炼瓶颈更加严重，修真文明面临危机"
+      },
+      {
+        "event": "破界盟成立",
+        "time": "纪元元年",
+        "description": "一群志在突破宿命的修士成立反抗组织",
+        "impact": "新的希望出现，挑战现有秩序"
+      }
+    ],
+    
+    "religious_mythology": {
+      "belief_systems": [
+        {
+          "name": "天道崇拜",
+          "description": "崇拜天地规则，认为一切皆有定数",
+          "taboos": ["逆天而行", "干预命运"]
+        },
+        {
+          "name": "先祖信仰",
+          "description": "崇拜历代强者，寻求先祖庇佑",
+          "taboos": ["亵渎先祖", "背叛传承"]
+        },
+        {
+          "name": "破界理念",
+          "description": "相信人定胜天，追求突破宿命",
+          "taboos": ["安于现状", "屈服命运"]
+        }
+      ],
+      "major_myths": [
+        {
+          "title": "创世传说",
+          "content": "传说世界由九位创世神共同创造，每位神赋予世界一种规则"
+        },
+        {
+          "title": "天道侵蚀之谜",
+          "content": "关于天道规则为何被侵蚀的传说，有说是外域入侵，有说是内部腐化"
+        },
+        {
+          "title": "救世预言",
+          "content": "预言中将有破界者出现，带领众生突破宿命束缚"
+        }
+      ]
+    },
+    
+    "social_landscape": {
+      "class_differences": [
+        {
+          "class": "修真贵族",
+          "description": "拥有深厚传承的宗门世家",
+          "lifestyle": "居住在灵气充沛的福地，享受特权"
+        },
+        {
+          "class": "散修平民",
+          "description": "无门无派的普通修炼者",
+          "lifestyle": "在凡尘与修真界之间挣扎求生"
+        },
+        {
+          "class": "凡尘百姓",
+          "description": "无法修炼的普通人",
+          "lifestyle": "生活在灵气稀薄的区域，寿命短暂"
+        }
+      ],
+      "racial_civilizations": [
+        {
+          "race": "人族",
+          "description": "数量最多，适应性强",
+          "characteristics": "智慧高，修炼潜力大"
+        },
+        {
+          "race": "妖族",
+          "description": "由动植物修炼而成",
+          "characteristics": "肉身强大，寿命悠长"
+        },
+        {
+          "race": "灵族",
+          "description": "天地灵气孕育而生",
+          "characteristics": "与灵气亲和度高"
+        }
+      ]
+    },
+    
+    "cultural_symbols": {
+      "festivals": [
+        {
+          "name": "灵气祭",
+          "description": "纪念灵气复苏的节日",
+          "traditions": ["灵气沐浴", "祈福仪式"]
+        },
+        {
+          "name": "破界日",
+          "description": "庆祝破界盟成立的纪念日",
+          "traditions": ["挑战仪式", "自由宣言"]
+        }
+      ],
+      "clothing_styles": {
+        "nobles": "华丽道袍，镶嵌灵玉",
+        "commoners": "朴素布衣，实用为主",
+        "rebels": "黑色劲装，象征反抗"
+      },
+      "architectural_styles": {
+        "traditional": "飞檐翘角，灵气流转",
+        "modern": "简约实用，防御性强"
+      },
+      "language_features": "修真术语丰富，包含大量修炼概念"
+    },
+    
+    "geography_ecology": {
+      "world_map": "九重天域立体结构，从凡尘到神魔战场层层递进",
+      "landforms": ["悬浮山脉", "灵气海洋", "时空裂隙", "遗迹秘境"],
+      "ecological_cycle": "灵气循环维持生态平衡，但受到规则侵蚀影响"
+    },
+    
+    "important_legends": [
+      {
+        "title": "九神创世",
+        "content": "传说九位创世神各自赋予世界一种规则力量"
+      },
+      {
+        "title": "天道守护者",
+        "content": "关于守护天道规则的古老存在的传说"
+      },
+      {
+        "title": "破界者预言",
+        "content": "预言中将有异界来客改变世界命运"
+      }
+    ],
+    
+    "secrets_mysteries": [
+      {
+        "mystery": "天道侵蚀的真正原因",
+        "clues": ["时空裂隙异常", "古老遗迹中的记载"]
+      },
+      {
+        "mystery": "创世神的去向",
+        "clues": ["神迹残留", "古老预言"]
+      },
+      {
+        "mystery": "破界者的真实身份",
+        "clues": ["异象频发", "命运之线的异常"]
+      }
+    ],
+    
+    "factions_organizations": [
+      {
+        "name": "天机阁",
+        "history": "千年情报组织，掌握修真界所有秘密",
+        "goals": "维持现状，保护既得利益"
+      },
+      {
+        "name": "万法宗",
+        "history": "传统修真宗门代表，历史悠久",
+        "goals": "传承道统，维护传统秩序"
+      },
+      {
+        "name": "破界盟",
+        "history": "新成立的反抗组织，成员复杂",
+        "goals": "突破宿命，改变世界规则"
+      }
+    ],
+    
+    "key_locations": [
+      {
+        "name": "天道山",
+        "significance": "传说中最接近天道规则的地方",
+        "features": ["规则显化", "时空扭曲"]
+      },
+      {
+        "name": "灵墟秘境",
+        "significance": "灵气复苏的源头",
+        "features": ["灵气浓郁", "遗迹众多"]
+      },
+      {
+        "name": "破界台",
+        "significance": "破界盟总部，反抗精神的象征",
+        "features": ["禁制重重", "命运干扰"]
+      }
+    ],
+    
+    "artifacts_treasures": [
+      {
+        "name": "天道镜",
+        "description": "能够映照天道规则的古老神器",
+        "abilities": ["规则洞察", "命运预知"]
+      },
+      {
+        "name": "破界剑",
+        "description": "传说中能够斩断命运之线的神兵",
+        "abilities": ["宿命斩断", "规则破坏"]
+      },
+      {
+        "name": "灵墟珠",
+        "description": "蕴含灵墟纪元本源力量的宝珠",
+        "abilities": ["灵气操控", "时空穿梭"]
+      }
+    ],
+    
+    "historical_figures": [
+      {
+        "name": "天机老人",
+        "role": "天机阁创始人",
+        "achievements": "建立修真界情报网络"
+      },
+      {
+        "name": "万法天尊",
+        "role": "万法宗开山祖师",
+        "achievements": "整理传统修炼体系"
+      },
+      {
+        "name": "破界真人",
+        "role": "破界盟精神领袖",
+        "achievements": "提出破界理念，挑战宿命"
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "characters": {
+    "protagonist": {
+      "basic_info": {
+        "name": "林破天",
+        "age": 18,
+        "gender": "男",
+        "appearance": "黑发黑眸，面容清秀但眼神锐利，身形修长挺拔，穿着朴素但干净"
+      },
+      "background_story": {
+        "origin": "来自现代世界的穿越者，意外来到灵墟纪元",
+        "family": "在现代世界是孤儿，在灵墟纪元无亲无故",
+        "key_events": ["意外穿越", "发现修炼天赋", "加入破界盟"]
+      },
+      "personality": {
+        "traits": ["杀伐果断", "智谋在线", "意志坚定", "重情重义"],
+        "strengths": ["洞察力强", "学习能力快", "意志力坚定", "适应性强"],
+        "weaknesses": ["有时过于理想化", "对感情执着", "容易背负过多责任"]
+      },
+      "goals_motivations": {
+        "short_term": "在修真界站稳脚跟，提升实力",
+        "long_term": "突破宿命束缚，改变世界规则",
+        "inner_drive": "追求真正的自由，不愿被命运摆布"
+      },
+      "abilities_weaknesses": {
+        "unique_ability": "规则洞察 - 能够看透被侵蚀的天道规则漏洞",
+        "special_skills": ["快速学习", "战术分析", "跨世界知识"],
+        "physical_weakness": "初期实力较弱，需要时间成长",
+        "psychological_weakness": "对命运的过度执着，容易陷入宿命论"
+      },
+      "relationships": {
+        "mentor": "清虚道长",
+        "companion": "苏灵儿",
+        "rival": "血煞",
+        "organization": "破界盟"
+      },
+      "development_arc": "迷茫穿越者 → 规则洞察者 → 宿命挑战者 → 破界先驱"
+    },
+    
+    "antagonist": {
+      "basic_info": {
+        "name": "血煞",
+        "age": 300,
+        "gender": "男",
+        "appearance": "血红色长发，面容妖异俊美，眼神深邃如渊，身着血色长袍"
+      },
+      "background_story": {
+        "origin": "曾经的天才修士，因挚爱死于天道反噬而堕入魔道",
+        "family": "曾是修真世家子弟，家族因天道规则而覆灭",
+        "key_events": ["挚爱死亡", "堕入魔道", "建立血煞宗"]
+      },
+      "personality": {
+        "traits": ["偏执疯狂", "智谋深沉", "冷酷无情", "魅力非凡"],
+        "strengths": ["实力强大", "领导力强", "洞察人心", "意志坚定"],
+        "weaknesses": ["对过去的执念", "对天道的仇恨扭曲了判断"]
+      },
+      "goals_motivations": {
+        "short_term": "摧毁现有修真秩序",
+        "long_term": "彻底毁灭天道规则，为挚爱复仇",
+        "inner_drive": "对天道不公的极端仇恨，想要创造没有规则束缚的世界"
+      },
+      "abilities_weaknesses": {
+        "unique_ability": "血煞魔功 - 通过吞噬他人修为快速提升实力",
+        "special_skills": ["血海滔天", "心魔操控", "规则扭曲"],
+        "physical_weakness": "功法反噬风险高",
+        "psychological_weakness": "对过去的执念成为最大破绽"
+      },
+      "philosophy": "既然天道不公，不如彻底毁灭，让众生在混沌中寻求真正的自由",
+      "development_arc": "天才修士 → 悲剧受害者 → 复仇恶魔 → 规则破坏者"
+    },
+    
+    "supporting_characters": [
+      {
+        "role": "指引者",
+        "basic_info": {
+          "name": "清虚道长",
+          "age": 800,
+          "gender": "男",
+          "appearance": "白发白须，仙风道骨，眼神深邃智慧，身着青色道袍"
+        },
+        "background": "破界盟长老，曾经的天机阁高层，因看透天道真相而离开",
+        "personality": "睿智豁达，洞察世事，但内心对改变命运仍存希望",
+        "abilities": "化神境修为，精通推演之术，对天道规则有深刻理解",
+        "relationship_with_protagonist": "导师和引路人，传授规则洞察的能力",
+        "story_contribution": "为主角指明方向，提供关键信息和指导",
+        "development": "从旁观者到积极参与者，最终为改变命运而牺牲"
+      },
+      {
+        "role": "牺牲者",
+        "basic_info": {
+          "name": "苏灵儿",
+          "age": 16,
+          "gender": "女",
+          "appearance": "银发紫眸，容貌绝美，气质空灵，身着白色衣裙"
+        },
+        "background": "灵族公主，天生与灵气亲和，但受到天道侵蚀影响",
+        "personality": "善良纯真，勇敢坚强，对命运充满希望",
+        "abilities": "元婴境修为，灵气操控天赋，治愈能力",
+        "relationship_with_protagonist": "同伴和挚友，相互扶持成长",
+        "story_contribution": "为主角提供情感支持，关键时刻牺牲自己拯救主角",
+        "development": "从天真少女到勇敢战士，最终为信念牺牲"
+      },
+      {
+        "role": "对照者",
+        "basic_info": {
+          "name": "铁无心",
+          "age": 25,
+          "gender": "男",
+          "appearance": "面容冷峻，眼神锐利，身形魁梧，身着黑色劲装"
+        },
+        "background": "万法宗天才弟子，传统修真体系的代表",
+        "personality": "严谨守序，重视规则，但内心迷茫",
+        "abilities": "金丹境巅峰，剑道天才，传统修炼体系精通者",
+        "relationship_with_protagonist": "竞争对手和理念碰撞者",
+        "story_contribution": "代表传统修真观念，与主角的理念形成鲜明对比",
+        "development": "从规则守护者到规则质疑者，最终找到自己的道路"
+      }
+    ],
+    
+    "relationship_network": {
+      "protagonist_antagonist": "理念对立但相互理解的宿命对手",
+      "protagonist_mentor": "师徒情深，理念传承",
+      "protagonist_companion": "生死与共，相互救赎",
+      "protagonist_rival": "竞争促进成长，理念碰撞",
+      "antagonist_mentor": "曾经的师徒，现在的敌人",
+      "mentor_companion": "长辈对晚辈的关爱"
+    },
+    
+    "character_arcs": {
+      "protagonist_arc": "迷茫穿越者 → 规则学习者 → 宿命洞察者 → 破界先驱 → 命运创造者",
+      "antagonist_arc": "天才修士 → 悲剧英雄 → 复仇恶魔 → 规则破坏者 → 自我救赎",
+      "mentor_arc": "旁观智者 → 积极引导者 → 牺牲奉献者",
+      "companion_arc": "天真少女 → 勇敢战士 → 永恒牺牲",
+      "rival_arc": "规则守护者 → 理念质疑者 → 自我觉醒者"
+    },
+    
+    "character_interactions": {
+      "key_conflicts": [
+        "主角与反派的理念冲突：改变规则 vs 毁灭规则",
+        "主角与对照者的道路选择：创新突破 vs 传统守护",
+        "主角与指引者的责任传承：年轻活力 vs 古老智慧"
+      ],
+      "emotional_bonds": [
+        "主角与同伴的生死情谊",
+        "主角与导师的师徒情深",
+        "主角与反派的宿命纠缠"
+      ],
+      "growth_catalysts": [
+        "同伴的牺牲推动主角成长",
+        "反派的压迫激发主角潜力",
+        "导师的指引帮助主角明悟"
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+name: 小说续写工作流
+version: 1.0.0
+description: 续写小说的工作流，根据大纲、人物、力量体系、文风、节奏生成下一章文本, 行为、物品和力量不能没有来源，需要在前文有提及或冲突解决后进行简短介绍， n < 10 时，主角严禁出现任何未提及来源的力量和物品。
+variables:
+  include: config.yamls
+
+workflow:
+  -id: chapter
+    name: 第一章/下一章生成
+    prompt: prompts/08_chapter_writer.prompt.md
+    inputs:
+      outline: output/outline.json
+      characters: output/characters.json
+      power_system: output/power_system.json
+      tone: "{{tone}}"
+      pacing_map: output/pacing_map.json
+      n: "output/chapter_{x}.txt  取max(x)"
+    output: output/chapter/chapter_{{n+1}}.txt
